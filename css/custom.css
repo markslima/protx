@@ -1,0 +1,38 @@
+li {
+	line-height: 1.2em;
+	vertical-align: center;
+}
+
+.caption {
+	vertical-align: center;
+	padding: 8px 50px;
+	top: 0px;
+	bottom: 90px;
+	/* adjusted so caption will cover entire picture thumbnail correctly */
+	width: 228px;
+	height: 80px;
+}
+
+.portfolio .caption {
+	vertical-align: center;
+	padding: 8px 50px;
+	top: 0px;
+	bottom: 90px;
+}
+
+
+.launch {
+	position: relative;
+	right: 1px;
+}
+
+.nudge {
+	position: relative;
+	right: 1px;
+}
+
+ul.social li{
+  		display: inline-block;
+  		padding-top: 18px;
+  		padding-right: 11
+  	}
